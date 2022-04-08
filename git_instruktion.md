@@ -96,3 +96,8 @@ git config --global user.email "mailexample@mail.ru"
 
 ![Логотип **Git**](logoGit.png)
 
+## 8. Создание веток в Git
+
+## 9. Слияние веток и разрешение конфликтов
+
+## 10. Удаление веток
